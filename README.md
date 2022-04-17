@@ -1,4 +1,4 @@
-# Tugas-2-PBO
+# Tugas 2 PBO
 
 Muhammad Fadli Hasan
 
