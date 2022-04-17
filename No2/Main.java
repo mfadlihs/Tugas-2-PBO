@@ -1,4 +1,4 @@
-package Collection.No2;
+// package Collection.No2;
 
 import java.util.*;
 
